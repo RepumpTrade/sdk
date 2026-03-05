@@ -5,7 +5,7 @@ Launch tokens with built-in X creator fee sharing. Share fees with up to 10 wall
 🌐 Website: https://repump.trade/  
 🐦 X (Twitter): https://x.com/RepumpTrade
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : D5C6zhZHccdw8Hom15EmaaHEQmXLiEZiSGwVXjDfpump
 ---
 
 ## Overview
