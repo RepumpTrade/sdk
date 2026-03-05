@@ -1,0 +1,13 @@
+{
+  "name": "repump",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "live-server frontend",
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deploy.js"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.0",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
